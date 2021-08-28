@@ -1,7 +1,7 @@
 ## 💡 Пройденые Курсы
 
 ```sh
-[Markdown site][df1]
+As [John Gruber] writes on the [Markdown site][df1]
 ```
 
 ## 📚 Прочитанные книги
