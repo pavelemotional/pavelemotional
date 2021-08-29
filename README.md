@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m @pavelemotional
-YouTube:
 ## ⭐️ My [Achievement_ru]
 ## ⚙️ My Technologies
 - Java
