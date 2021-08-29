@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @pavelemotional
-## ⭐️ My [Achievement_ru]
+## ⭐️ My Achievement
+- [Russian] [Achievement_ru]
 ## ⚙️ My Technologies
 - Java
 - Spring
