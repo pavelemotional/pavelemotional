@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavelemotional
 YouTube:
-- ⭐️ My | [Achievement_ru]
+- ⭐️ My [Achievement_ru]
 
 [Achievement_ru]: <https://github.com/pavelemotional/pavelemotional/blob/main/Achievement_ru.md>
 
