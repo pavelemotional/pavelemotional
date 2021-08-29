@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @pavelemotional
+## 👋 Hi, I’m @pavelemotional
 YouTube:
-- ⭐️ My [Achievement_ru]
-- ⚙️ My Technologies
-  -- Java
-  -- Spring
-  -- Hibernate
+## ⭐️ My [Achievement_ru]
+## ⚙️ My Technologies
+- Java
+- Spring
+- Hibernate
 [Achievement_ru]: <https://github.com/pavelemotional/pavelemotional/blob/main/Achievement_ru.md>
 
 <!---
