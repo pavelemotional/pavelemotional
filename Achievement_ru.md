@@ -1,9 +1,11 @@
 ## 💡 Курсы
+Udemy:
+- Zaur Tregulov [ Java - получи Чёрный пояс! ] [ZaurTregulov-GetABlack] |💯
 
 YouTube:
-- Alishev | [_Java для начинающих_] [AlishevCourseJavaForBegginer] |💯
-- Alishev | [_JavaEE для начинающих_] [AlishevCourseJavaEEForBegginer] | 💯
-- Alishev | [_Spring Framework_] [ AlishevSpringFramework] | 💯
+- Alishev | [_Java для начинающих_] [Alishev-JavaForBegginer] |💯
+- Alishev | [_JavaEE для начинающих_] [Alishev-JavaEEForBegginer] | 💯
+- Alishev | [_Spring Framework_] [ Alishev-SpringFramework] | 💯
 
 ## 📚 Книги
 Java:
@@ -21,6 +23,7 @@ Computer science:
 - Изучаем SQL | Линн Бейли | **0%**
 
 ## 📜 Сертификаты
-[AlishevSpringFramework]: <https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ>
-[AlishevCourseJavaEEForBegginer]: <https://www.youtube.com/watch?v=V6W-AfjWVaQ&list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr>
-[AlishevCourseJavaForBegginer]: <https://www.youtube.com/watch?v=ziOQ8wkmnSE&list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak>
+[ZaurTregulov-GetABlack]: <https://www.udemy.com/course/java-ot-zaura/>
+[Alishev-SpringFramework]: <https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ>
+[Alishev-JavaEEForBegginer]: <https://www.youtube.com/watch?v=V6W-AfjWVaQ&list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr>
+[Alishev-JavaForBegginer]: <https://www.youtube.com/watch?v=ziOQ8wkmnSE&list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak>
